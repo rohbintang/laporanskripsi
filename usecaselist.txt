@@ -1,0 +1,24 @@
+admin
+
+manajemen order
+manajemen theme
+manajemen theme aproval
+manajemen user
+manajemen content
+
+
+customer
+- login
+- cari theme
+- order theme
+- lihat invoices
+- konfirmasi pembayaran
+- download theme
+
+TD
+
+- login
+- upload theme
+- lihat theme
+- lihat order
+- lihat pendapatan
